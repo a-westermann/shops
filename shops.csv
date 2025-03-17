@@ -11,7 +11,7 @@ Enchanted_Emporium,Wall of Force Scroll,100,A magical scroll containing the Wall
 Enchanted_Emporium,Greater Invisibility Scroll,100,A magical scroll containing the Greater Invisibility spell,
 Enchanted_Emporium,Time Stop Scroll,5000,A magical scroll containing the Time Stop spell,Special order only
 Enchanted_Emporium,Meteor Swarm Scroll,5000,A magical scroll containing the Meteor Swarm spell,Special order only
-Enchanted_Emporium,"Robes of the Arcane Duelist,50,A masterfully enchanted robe that enhances spell dueling prowess. Gain Shield spell (1/day) without expending a spell slot. When you counterspell, you regain HP equal to the negated spell’s level.",+1 AC
+Enchanted_Emporium,Robes of the Arcane Duelist,50,"A masterfully enchanted robe that enhances spell dueling prowess. Gain Shield spell (1/day) without expending a spell slot. When you counterspell, you regain HP equal to the negated spell’s level.",+1 AC
 Enchanted_Emporium,Mantle of the Everflowing Mind,50,"An enchanted cloak that amplifies arcane memory. Regain a 1st-level spell slot after casting a spell of 3rd level or higher (1/long rest). Mage Hand can lift up to 50 lbs and is invisible",
 Enchanted_Emporium,Voidweave Cloak,50,"A mysterious cloak woven with the essence of the void. While wearing this, you can turn invisible for 1 minute (1/day). Advantage on saving throws vs. Divination magic (e.g., Detect Thoughts, Scrying)",
 Enchanted_Emporium,Whisper Quill,5,A self-writing quill that records speech into written text,
