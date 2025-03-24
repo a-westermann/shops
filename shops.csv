@@ -1,24 +1,7 @@
 shop,item_name,price,description,special_text
-Enchanted_Emporium,Mage Armor Scroll,5,A magical scroll containing the Mage Armor spell,
-Enchanted_Emporium,Detect Magic Scroll,2,A magical scroll containing the Detect Magic spell,
-Enchanted_Emporium,Magic Missile Scroll,20,A magical scroll containing the Magic Missile spell,
-Enchanted_Emporium,Shield Scroll,25,A magical scroll containing the Shield spell,
-Enchanted_Emporium,Counterspell Scroll,30,A magical scroll containing the Counterspell spell,
-Enchanted_Emporium,Fireball Scroll,50,A magical scroll containing the Fireball spell,
-Enchanted_Emporium,Misty Step Scroll,50,A magical scroll containing the Misty Step spell,
-Enchanted_Emporium,Teleport Scroll,80,A magical scroll containing the Teleport spell,
-Enchanted_Emporium,Wall of Force Scroll,100,A magical scroll containing the Wall of Force spell,
-Enchanted_Emporium,Greater Invisibility Scroll,100,A magical scroll containing the Greater Invisibility spell,
-Enchanted_Emporium,Time Stop Scroll,5000,A magical scroll containing the Time Stop spell,Special order only
-Enchanted_Emporium,Meteor Swarm Scroll,5000,A magical scroll containing the Meteor Swarm spell,Special order only
-Enchanted_Emporium,Robes of the Arcane Duelist,50,"A masterfully enchanted robe that enhances spell dueling prowess. Gain Shield spell (1/day) without expending a spell slot. When you counterspell, you regain HP equal to the negated spell’s level.",+1 AC
-Enchanted_Emporium,Mantle of the Everflowing Mind,50,"An enchanted cloak that amplifies arcane memory. Regain a 1st-level spell slot after casting a spell of 3rd level or higher (1/long rest). Mage Hand can lift up to 50 lbs and is invisible",
-Enchanted_Emporium,Voidweave Cloak,50,"A mysterious cloak woven with the essence of the void. While wearing this, you can turn invisible for 1 minute (1/day). Advantage on saving throws vs. Divination magic (e.g., Detect Thoughts, Scrying)",
-Enchanted_Emporium,Whisper Quill,5,A self-writing quill that records speech into written text,
-Enchanted_Emporium,Spellbinder’s Ledger,250,"A tome designed to store spells and reuse them. Holds up to 5 spells written inside. The owner can read from it as a spell scroll without the scroll being consumed (1/day per spell). To scribe a spell, you must know it, have it prepared, be proficient in the Arcana skill, and pay material costs.",See scribing costs table (not for poor people)
-Enchanted_Emporium,Everlasting Candle,2,"A candle that produces heatless flame and never melts",Can be used as an arcane focus
-Enchanted_Emporium,Soulglass Prism,18,"An enchanted prism infused with soul magic. Once per long rest, when you would be reduced to 0 HP, instead drop to 1 HP and teleport 10 feet away",<b>Requires Attunement</b>
-Enchanted_Emporium,Smart Stick,35,"A finely crafted quarterstaff reinforced with cloud-forged steel. Doubles as a quarterstaff +1. Critical threat range 19-20. When you score a critical hit with a melee attack using this staff, you can cast a prepared level 1 spell or a cantrip without expending a spell slot as an immediate bonus action",
-Enchanted_Emporium,Chime of Warding,75,"A magical chime that resonates with defensive energies. As a reaction, can cast Counterspell (once per long rest)",
-Enchanted_Emporium,Runebound Focus,40,"A focus inscribed with arcane runes for spell storage. Can store one spell (up to 3rd level). Can be cast without expending a spell slot once per day. You can scribe a spell as long as you know it, have it prepared, are proficient in Arcana, and pay the material costs.",See the scribing costs table
-Enchanted_Emporium,Parasitic Leather Armor,85,"A sinister armor crafted from Shadowleather Weave. Empowers spells by feeding off life force. When the wearer deals physical damage to an enemy, the next damaging spell they cast this combat deals bonus Force damage if it hits/succeeds, equal to half the physical damage dealt. If you kill a creature with magic, regain 1d4 HP. You have disadvantage on Constitution saves to maintain concentration.",AC: 14 + Dex
+Arcane_Atelier,"Common & Greater Healing Potions",10,"Restores 4d4+4 HP.",""
+Arcane_Atelier,"Potions of Resistance",10,"Grants resistance to a chosen damage type (fire, cold, poison, etc.) for 1 hour.",""
+Arcane_Atelier,"Elixirs of Clarity",3,"Grants temporary advantage on Intelligence checks until the next rest. Causes headaches after (disadvantage on INT checks and saves for 1 day).",""
+Arcane_Atelier,"Dust of the Infinite",5,"A fine silver powder that induces vivid hallucinations of past lives (real or imagined). After a short come up, the imbiber loses all connection to the real world for 45 minutes.",""
+Arcane_Atelier,"Dreamer's Honey",5,"A golden liquid that slows reaction time but opens the mind to cosmic insights. Some users report glimpses of Auk, personified as Maklar (dwarves). The imbiber remains present and conscious, but appears slow-witted for 1-2 hours.",""
+Arcane_Atelier,"Phantom’s Breath",5,"A smoky blue vapor inhaled through a brass tube. Grants brief incorporeality (1 minute of <a href=""https://roll20.net/compendium/dnd5e/Etherealness#content""> Etherealness</a>) but has a 10% chance of leaving the user feeling 'disconnected' for 12 hours (-10 WIS/CHA/INT, incapable of spell casting).",""
