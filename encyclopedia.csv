@@ -1,9 +1,38 @@
 section,subsection,title,description
-Locations,,Ter,Our planet
-Locations,,Ter Wenda,"Literally 'Western Ter.' The continent where the story takes place, and the only major landmass containing sentient life on the planet."
-Locations,,Auk,"Ter's sister planet hanging impossibly close in the sky. During winter, it occupies a persistent spot about 30 degrees above the northwestern horizon. Recently, with the advancement of telescopic lenses, signs of life in the form of tiny dancing lights have been spotted during night."
+Locations,Ter,Ter,Our planet
+Locations,Ter,Ter Wenda,"Literally 'Western Ter.' The continent where the story takes place, and the only major landmass containing sentient life on the planet."
+Locations,Ter,Auk,"Ter's sister planet hanging impossibly close in the sky. During winter, it occupies a persistent spot about 30 degrees above the northwestern horizon. Recently, with the advancement of telescopic lenses, signs of life in the form of tiny dancing lights have been spotted during night."
 Locations,Solria Ter,Solria Ter,"'Sunlight (of) Ter,' the self-styled leaders of Ter Wenda. Composed mostly of humans (especially among those in power), they quickly rose as a national power following the fall of a previous empire 430 years ago, and are now dominating half the continent with intentions of taking the rest under their protection.'"
 Locations,Solria Ter,Apostria,"Capitol city of Solria Ter residing at the north central end of the continent. While the city is smaller than Maklar's Embrace, the surrounding area is full of many more people."
 Locations,Solria Ter,Evoxa,"A Solrian Ter large city in the center of the continent, just about equidistant to all three other nations."
 Locations,Solria Ter,Astrod,"A tiny fishing village of no note located in the harsh rocky plains of north western Ter Wenda.Ialias' adoptive home town, and the opening location of our story."
-People,,Dax Magnus,King of Vay Reach. The party delivered a mysterious Parcel containing some kind of artifact to him.
+Locations,Solria Ter,Fort Anora,"A newly erected fort guarding a river crossing in southwestern Solria Ter. The party was held captive here for 3 days. Following that, an adult black dragon infected by after-dark reigned destruction on the fort... Following *that*, soldiers became infested by worms spawned from after-dark."
+Locations,Vay Reach,Vay Reach,"Founded by humans who were kicked out of present-day Lestron by immigrating elves who had found their ""promise land."" They settled in the one place that was not inhabited - a massive mountain range in the West. Life began hard in the harsh climate, but through perseverance and with the help of Dwarves, it became a thriving nation full of progressive educated people with the potential to rival both Solria Ter and Lestron... one day."
+Locations,Vay Reach,Maklar's Embrace,"Capitol and sole city of Vay Reach, nestled high up in the center of the mountains."
+Locations,Vay Reach,The College,"Residing in Maklar's Embrace is the most advanced school in the world. Chief among the fields of study are Automation, Terology (the study of everything below the ground), and Thaumaturgical Refinement (magic improving everyday life)."
+Locations,Lestron,Lestron,"Formerly home to humans, elves immigrated to Ter Wenda and took over this forested southern land."
+Locations,The Nameless Lands,The Nameless Lands,"The wild eastern lands of Ter Wenda inhabited by nomadic horseman tribes. They are constantly at war with each other, and the more daring tribes mount raids into neighboring Solria Ter... and are often subsequently wiped out."
+Locations,???,Menkavir,"The party encountered a strange jungle temple that was seemingly transported to Solria Ter. Inside a journal, they found reference to a Dwarven city named Menkavir."
+People,Vay Reach,Dax Magnus,King of Vay Reach. The party delivered a mysterious Parcel containing some kind of artifact to him.
+People,,Chancellor Zerrik,"One of 13 chancellor of Solria Ter, who essentially govern a piece of the country and its territories. Enemy by proxy to the party, having sent patrols out to find them and capture the Parcel."
+People,,Count Vardo,"A Count in Evoxa, a central city in Solria Ter. This unknown man apparently sent mercenaries to kill the party during their journey to Vay Reach. Why he did so is unknown."
+People,,Bastions,"Enforcers of Solria Ter. They are talented magic users, usually wizards, who spend their days hunting down ""disadents"" and ""traitors."" Widely feared, when they come to town most people's first instinct is to hide... regardless of any wrong-doing."
+People,,Sunderers,"Mid-ranking soldiers of Solria Ter, equipped with Evadra gauntlets for hampering magic-users."
+People,,Commander Azhara,A particularly ruthless Tiefling Bastion who harried the party for 3 days at Fort Anora in Southern Solria Ter. They chose to let her go when she expressed willingness to save the land from Nyzalith.
+People,,Lt Rhovak,"A young Bastion who claimed to be a sleeper agent for the nomadic tribes in the eastern Nameless Lands, despite the 'nation' having no overarching government of any kind. The party tied him up at Fort Anora and left him alive."
+People,,Bolio,“Where the hell are my keys?”
+People,,Belthar,An amnesiac dwarf sorcerer usually more concerned with erections than any current intrigue.
+People,,KEK,A massive Horc barbarian who's only tenet in life is 'I need that.'
+People,,Ialias,"A Tiefling cleric in a constant battle between doing what's right, and doing what's fun."
+People,,Perdant,"From the root word 'Perceive.' The right-hand-man of many powerful leaders across the continent. They are widely-known to have some kind of magical abilities that normal magic-users do not possess, that allow them glimpses of possible futures."
+People,Vay Reach,Stone Grace,"An order of troops answering directly to the King of Vay Reach. Separate from the City Watch, the Stone Grace handles crime and conflict occurring outside the city, and conduct longer-term investigations."
+People,Vay Reach,Guild for Greater Profits,"A powerful guild of merchants that make their home in the Silver Spire. Due to their rampant bribes and positions of power, King Magnus has essentially granted them de-facto immunity... but they are very skilled at operating behind the scenes, anyway."
+Gods,,Nyzalith,God of the after-dark. He was previously unknown to the people of Ter but revealed himself and his spawn to the world in the autumn of year 3406
+Gods,,Maklar,"God of perseverance, cooperation, brotherhood, Auk. Used to be thought to have created Auk as a reminder that he is present always, and that they are part of a greater universe. Few people now worship him apart from off-hand prayers, although Dwarves in Vay Reach still hold faith."
+After-Dark,,After-Dark,"The term for the time when a cold fog creeps over the continent, bringing with it multitudes of malicious monsters. It also has the power to infect normal creatures, corrupting them into similarly evil beasts."
+After-Dark,,Nyzalith,"God of the after-dark. He was previously unknown to the people of Ter but revealed himself and his spawn to the world in the autumn of year 3406, promising revenge for some unspoken ancient grievance."
+After-Dark,,Infested,"Heralding Nyzalith's arrival, pale writhing purple worms that secret a thick ooze began to appear around the land. Contact with these worms spells instant infestation of lesser creatures, while those powerful enough to resist are all the same eventually consumed – becoming monstrous demons bent to Nyzalith's will."
+After-Dark,,Fog Weaver,"Powerful Infested, usually spawned when the infestation takes a person or creature of greater power. They are able to spew fog capable of spreading the infestation."
+Terms,,Evadra,"A jet-black stone laced with pulsing blue veins. Nullifies magic and magic-users when it comes in contact. No one knows from where these stone fragments originate, only that they are fairly common both above and below-ground."
+Terms,,Inverted Evadra,"Counter to normal Evadra, Inverted Evadra is pure-white, like opal. It is exceedingly rare and recently the school of Automation in Vay Reach has discovered a way to harness its power to fuel autonomous machines."
+Terms,,Days of the week,"Oyrad, Hurad, Olrad, Norad, Vyurad (first day of 3 day weekend), Bnyurad, Purad"
